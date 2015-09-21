@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.nauka3.DodajActivity" >
+
+        <item
+        android:id="@+id/opcja2"
+        android:orderInCategory="110"
+        android:title="Opcja"/>
+	
+    	
+</menu>
